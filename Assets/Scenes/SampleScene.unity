@@ -616,11 +616,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 94.282, z: 0}
---- !u!4 &468392722 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6489749921230112454, guid: 3a691c464036f484a93aabb1a3de5c66, type: 3}
-  m_PrefabInstance: {fileID: 729038169}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &586483571
 GameObject:
   m_ObjectHideFlags: 0
@@ -1979,11 +1974,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &1552699396 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6489749921230112454, guid: 3a691c464036f484a93aabb1a3de5c66, type: 3}
-  m_PrefabInstance: {fileID: 669511507}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1594831678
 GameObject:
   m_ObjectHideFlags: 0
@@ -2227,11 +2217,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 94.282, z: 0}
---- !u!4 &1650617719 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6489749921230112454, guid: 3a691c464036f484a93aabb1a3de5c66, type: 3}
-  m_PrefabInstance: {fileID: 6489749920732949425}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1779371423
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2776,17 +2761,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f2e7bc94f30dae41b468cb2f71b8876, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Waypoints:
-  - {fileID: 1650617719}
-  - {fileID: 468392722}
-  - {fileID: 1552699396}
-  Player: {fileID: 2107106902}
-  SightRange: 10
-  AttackRange: 2
-  PlayerLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  currentState: 0
 --- !u!195 &2114487927
 NavMeshAgent:
   m_ObjectHideFlags: 0
